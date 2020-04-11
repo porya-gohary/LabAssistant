@@ -5,7 +5,7 @@
 
 // WiFi parameters to be configured
 const char* ssid = "[PORYA]";
-const char* password = "Wftltposu5";
+const char* password = "-----";
 String inputString = ""; 
 int value1,value2;
 
