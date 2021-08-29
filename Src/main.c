@@ -113,7 +113,7 @@ char *recMsg1="AT+CMGF=1\r\n";
 //char *recMsg2="AT+CNMI=2,2,0,0,0\r\n";
 char *recMsg2="AT+CNMI=1,2,0,0,0\r\n";
 
-char *trueMessage="+CMT: \"+98935***099\"";
+char *trueMessage="+CMT: \"+98*********\"";
 
 char *SignalQuality="AT+CSQ\r\n";
 char *check="ATT\r\n";
